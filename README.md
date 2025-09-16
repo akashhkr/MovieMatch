@@ -2,6 +2,12 @@
 
 A Tinder-like movie selector designed for groups who can't decide what to watch together. Create or join rooms with friends, swipe through movies, and discover what everyone wants to watch through real-time collaborative matching.
 
+<img width="390" height="844" alt="Movie-Selector-App-08-05-2025_06_09_PM" src="https://github.com/user-attachments/assets/9e3ee0ad-5dfa-456a-a590-b25bde615efb" />
+
+<img width="390" height="844" alt="Movie-Selector-App-08-05-2025_06_43_PM" src="https://github.com/user-attachments/assets/fad22621-106c-42be-af90-50ba28c92f7d" />
+
+<img width="390" height="844" alt="MovieMatch - Match Screen" src="https://github.com/user-attachments/assets/7a322250-f756-4654-abe9-f298558fab22" />
+
 ## 🎯 What is MovieSwipe?
 
 MovieSwipe solves the age-old problem of "What should we watch tonight?" by gamifying the movie selection process. Instead of endless debates and indecision, users swipe through movie options in a fun, Tinder-style interface until they find films that everyone likes.
@@ -127,7 +133,5 @@ MovieSwipe solves the age-old problem of "What should we watch tonight?" by gami
 ## 💫 The Experience
 
 MovieSwipe transforms the frustrating process of group movie selection into an engaging, social activity. The familiar swipe interface makes it fun and intuitive, while the real-time collaboration creates shared excitement when matches are found. No more endless scrolling or disappointing compromises - just quick, democratic decisions that get you to the couch faster.
-
----
 
 *Built with modern web technologies for a smooth, reliable, and enjoyable movie selection experience.*
